@@ -7,8 +7,7 @@
 
 ![lucisanc's 42 stats](https://badge42.vercel.app/api/v2/cl3vpat6c006909l0j733osv1/stats?cursusId=21&coalitionId=48)
 
-### Contact
-![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)[code.42ai@protonmail.com]
+![Contact: code.42ai@protonmail.com](https://img.shields.io/badge/Protonmail-code.42ai%40protonmail.com-blue)
 
 <!--
 
