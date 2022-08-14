@@ -3,6 +3,10 @@
 ![](https://raw.githubusercontent.com/DrSocket/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/DrSocket/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
+Current progress at 42Paris
+
+[![lucisanc's 42 stats](https://badge42.vercel.app/api/v2/cl3vpat6c006909l0j733osv1/stats?cursusId=21&coalitionId=48)]
+
 <!--
 
 **DrSocket/DrSocket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
