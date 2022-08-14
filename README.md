@@ -5,7 +5,7 @@
 
 Current progress at 42Paris
 
-[![lucisanc's 42 stats](https://badge42.vercel.app/api/v2/cl3vpat6c006909l0j733osv1/stats?cursusId=21&coalitionId=48)]
+![lucisanc's 42 stats](https://badge42.vercel.app/api/v2/cl3vpat6c006909l0j733osv1/stats?cursusId=21&coalitionId=48)
 
 <!--
 
